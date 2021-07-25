@@ -7,6 +7,7 @@ We love sharing our adventures so we've collected a few gpx files here. Have you
   - [GRUSK Spruce Highlights 2021 (West Virginia 🇺🇸)](cycling/grusk-spruce-highlights.md)
   - [Hillman State Park (Pennsylvania 🇺🇸)](cycling/hillman-state-park.md)
   - [Rothrock State Forest (Pennsylvania 🇺🇸)](cycling/rothrock-state-forest.md)
+  - [Laurel Highlands Gravel (Pennsylvania 🇺🇸)](cycling/laurel-gravel.md)
 
 ## 🥾 Hiking
 
